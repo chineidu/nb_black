@@ -14,21 +14,21 @@ the edited, but unformatted code.
 
 You can install this package using [pip](http://www.pip-installer.org):
 
-```
-$ [sudo] pip install nb_black
+```sh
+[sudo] pip install nb_black
 ```
 
 ## Usage
 
 For Jupyter Notebook:
 
-```
+```sh
 %load_ext nb_black
 ```
 
 For Jupyter Lab:
 
-```
+```sh
 %load_ext lab_black
 ```
 
