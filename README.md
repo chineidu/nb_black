@@ -1,4 +1,4 @@
-# nb_black
+# nb_black-formatter
 
 [![PyPI](https://img.shields.io/pypi/v/nb_black.svg)](https://pypi.org/project/nb-black/)
 [![PyPI - Python Version](https://img.shields.io/pypi/pyversions/nb_black.svg)](https://pypi.org/project/nb-black/)
@@ -15,7 +15,7 @@ the edited, but unformatted code.
 You can install this package using [pip](http://www.pip-installer.org):
 
 ```sh
-[sudo] pip install nb_black
+[sudo] pip install nb-black-formatter
 ```
 
 ## Usage
